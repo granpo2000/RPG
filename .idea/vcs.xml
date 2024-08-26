@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/CharacterCreator" vcs="Git" />
+>>>>>>> 45c7d11f8f1f64cc01c48e98a52c18889054f00c
   </component>
 </project>
